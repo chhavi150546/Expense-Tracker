@@ -1,0 +1,16 @@
+{
+  "users": [],
+  "budget": [
+    {
+      "id": "4086",
+      "userId": "89ee",
+      "value": 0
+    },
+    {
+      "id": "08b3",
+      "userId": "89ee",
+      "value": 0
+    }
+  ],
+  "expenses": []
+}
